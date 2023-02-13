@@ -22,6 +22,8 @@ beginners:
         url: /docs/overview/
       - title: "Environment Setup"
         url: /docs/environment/
+  - title: Syntax
+    children:
       - title: "Basic Syntax"
         url: /docs/basicsyntax/
       - title: "Comments"
