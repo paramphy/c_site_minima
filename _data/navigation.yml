@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "Beginners guide to C++"
     url: /docs/basics/
-  - title: "About"
-    url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
+#  - title: "About"
+#    url: /about/
+#  - title: "Sample Posts"
+#    url: /year-archive/
 #  - title: "Sample Collections"
 #    url: /collection-archive/
 # - title: "Terms &amp; Privacy Policy"
@@ -13,7 +13,7 @@ main:
 
 
 # documentation links
-docs:
+beginners:
   - title: Beginners
     children:
       - title: "Basics"
@@ -27,9 +27,9 @@ docs:
       - title: "Comments"
         url: /docs/comments/
       - title: "Data Type"
-        url: /docs/comments/
+        url: /docs/datatypes/
       - title: "Variable Scope"
-        url: /docs/comments/
+        url: /docs/variabletypes/
       - title: "Constants/Literals"
         url: /docs/comments/
       - title: "Modifier Types"
