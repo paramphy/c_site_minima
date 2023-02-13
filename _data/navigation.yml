@@ -28,14 +28,14 @@ beginners:
         url: /docs/comments/
       - title: "Data Type"
         url: /docs/datatypes/
-      - title: "Variable Scope"
-        url: /docs/variabletypes/
-      - title: "Constants/Literals"
-        url: /docs/comments/
-      - title: "Modifier Types"
-        url: /docs/comments/
-      - title: "Storage Classes"
-        url: /docs/comments/
+      #- title: "Variable Scope"
+      #  url: /docs/variabletypes/
+      #- title: "Constants/Literals"
+      #  url: /docs/comments/
+      #- title: "Modifier Types"
+      #  url: /docs/comments/
+      #- title: "Storage Classes"
+      #  url: /docs/comments/
   #- title: Customization
   #  children:
   #    - title: "Configuration"

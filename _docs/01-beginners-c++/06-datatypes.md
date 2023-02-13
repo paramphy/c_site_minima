@@ -13,6 +13,7 @@ You may like to store information of various data types like character, wide cha
 ## Primitive Built-in Types
 
 C++ offers the programmer a rich assortment of built-in as well as user defined data types. Following table lists down seven basic C++ data types −
+
 |Type| 	Keyword|
 |:-------------:|:----------:|
 |Boolean| 	bool|
@@ -31,6 +32,7 @@ Several of the basic types can be modified using one or more of these type modif
 - long
 
 The following table shows the variable type, how much memory it takes to store the value in memory, and what is maximum and minimum value which can be stored in such type of variables.
+
 |Type| 	Typical Bit Width| 	Typical Range|
 |:----:|:----:|:----:|
 |char| 	1byte| 	-127 to 127 or 0 to 255|
