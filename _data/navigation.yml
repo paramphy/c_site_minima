@@ -30,14 +30,20 @@ beginners:
         url: /docs/comments/
       - title: "Data Type"
         url: /docs/datatypes/
-      #- title: "Variable Scope"
-      #  url: /docs/variabletypes/
-      #- title: "Constants/Literals"
-      #  url: /docs/comments/
-      #- title: "Modifier Types"
-      #  url: /docs/comments/
+      - title: "Variable Scope"
+        url: /docs/variablescope/
+      - title: "Constants/Literals"
+        url: /docs/constants/
+      - title: "Operators"
+        url: /docs/operators/
       #- title: "Storage Classes"
       #  url: /docs/comments/
+  - title: Flow Control
+    children:
+      - title: "if else statement"
+        url: /docs/ifelse/
+      - title: "Loops"
+        url: /docs/loops/
   #- title: Customization
   #  children:
   #    - title: "Configuration"

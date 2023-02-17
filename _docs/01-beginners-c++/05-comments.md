@@ -47,3 +47,10 @@ cout << "Hello World"; // prints Hello World
 
 */
 ```
+## Why use Comments?
+
+If we write comments on our code, it will be easier for us to understand the code in the future. Also, it will be easier for your fellow developers to understand the code.
+
+**Note:** Comments shouldn't be the substitute for a way to explain poorly written code in English. We should always write well-structured and self-explanatory code. And, then use comments.
+
+As a general rule of thumb, use comments to explain Why you did something rather than How you did something, and you are good.
