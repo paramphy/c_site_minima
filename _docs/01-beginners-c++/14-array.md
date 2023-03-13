@@ -6,8 +6,6 @@ redirect_from:
   - /theme-setup/
 toc: true
 ---
-## Intro
-
 C++ provides a data structure, the array, which stores a fixed-size sequential collection of elements of the same type. An array is used to store a collection of data, but it is often more useful to think of an array as a collection of variables of the same type.
 
 Instead of declaring individual variables, such as number0, number1, ..., and number99, you declare one array variable such as numbers and use numbers[0], numbers[1], and ..., numbers[99] to represent individual variables. A specific element in an array is accessed by an index.
@@ -41,8 +39,7 @@ You will create exactly the same array as you did in the previous example.
 balance[4] = 50.0;
 ```
 The above statement assigns element number 5th in the array a value of 50.0. Array with 4th index will be 5th, i.e., last element because all arrays have 0 as the index of their first element which is also called base index. Following is the pictorial representaion of the same array we discussed above −
-## Array Presentation
-### Accessing Array Elements
+%## Array Presentationmlmml## Accessing Array Elements
 
 An element is accessed by indexing the array name. This is done by placing the index of the element within square brackets after the name of the array. For example −
 ```c++
@@ -91,6 +88,7 @@ Element        Value
 ## Arrays in C++
 
 Arrays are important to C++ and should need lots of more detail. There are following few important concepts, which should be clear to a C++ programmer −
+
 |Sr.No| 	Concept & Description|
 |:----------:|:-------:|
 |1| 	**Multi-dimensional arrays:** C++ supports multidimensional arrays. The simplest form of the multidimensional array is the two-dimensional array.|
