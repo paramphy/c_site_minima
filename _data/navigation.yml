@@ -44,6 +44,12 @@ beginners:
         url: /docs/ifelse/
       - title: "Loops"
         url: /docs/loops/
+  - title: Tools
+    children:
+      - title: "Function"
+        url: /docs/function/
+      - title: "Array"
+        url: /docs/array/
   #- title: Customization
   #  children:
   #    - title: "Configuration"
