@@ -27,6 +27,7 @@ a + b;
 ```
 Here, the + operator is used to add two variables a and b. Similarly there are various other arithmetic operators in C++.
 
+
 |Operator|	Operation|
 |:---------:|:----------:|
 |+|	Addition|
@@ -148,6 +149,7 @@ a = 5;
 
 Here, we have assigned a value of 5 to the variable a.
 
+
 |Operator|	Example|	Equivalent to|
 |------|-----|----|
 |=|	a = b;|	a = b;|
@@ -201,6 +203,7 @@ a > b;
 Here, > is a relational operator. It checks if a is greater than b or not.
 
 If the relation is true, it returns 1 whereas if the relation is false, it returns 0.
+
 |Operator|	Meaning|	Example|
 |:-----:|:-----:|:-----:|
 |==|Is Equal To|	3 == 5 gives us false|
@@ -256,6 +259,7 @@ Output
 ## 4. C++ Logical Operators
 
 Logical operators are used to check whether an expression is true or false. If the expression is true, it returns 1 whereas if the expression is false, it returns 0.
+
 |Operator|	Example|	Meaning|
 |----------|---------|-------|
 |&&|	expression1 && expression2|	Logical AND.True only if all the operands are true.|
@@ -332,9 +336,9 @@ Explanation of logical operator program
 - (3 != 5) && (3 < 5) evaluates to 1 because both operands (3 != 5) and (3 < 5) are 1 (true).
 - (3 == 5) && (3 < 5) evaluates to 0 because the operand (3 == 5) is 0 (false).
 - (3 == 5) && (3 > 5) evaluates to 0 because both operands (3 == 5) and (3 > 5) are 0 (false).
-- (3 != 5) || (3 < 5) evaluates to 1 because both operands (3 != 5) and (3 < 5) are 1 (true).
-- (3 != 5) || (3 > 5) evaluates to 1 because the operand (3 != 5) is 1 (true).
-- (3 == 5) || (3 > 5) evaluates to 0 because both operands (3 == 5) and (3 > 5) are 0 (false).
+- (3 != 5) \|\| (3 < 5) evaluates to 1 because both operands (3 != 5) and (3 < 5) are 1 (true).
+- (3 != 5) \|\| (3 > 5) evaluates to 1 because the operand (3 != 5) is 1 (true).
+- (3 == 5) \|\| (3 > 5) evaluates to 0 because both operands (3 == 5) and (3 > 5) are 0 (false).
 - !(5 == 2) evaluates to 1 because the operand (5 == 2) is 0 (false).
 - !(5 == 5) evaluates to 0 because the operand (5 == 5) is 1 (true).
 
