@@ -29,7 +29,7 @@ struct [structure tag] {
 ```
 
 The structure tag is optional and each member definition is a normal variable definition, such as int i; or float f; or any other valid variable definition. At the end of the structure's definition, before the final semicolon, you can specify one or more structure variables but it is optional. Here is the way you would declare the Book structure −
-```C++
+```c++
 struct Books {
    char  title[50];
    char  author[50];
@@ -40,7 +40,7 @@ struct Books {
 ## Accessing Structure Members
 
 To access any member of a structure, we use the member access operator (.). The member access operator is coded as a period between the structure variable name and the structure member that we wish to access. You would use struct keyword to define variables of structure type. Following is the example to explain usage of structure −
-```C++
+```c++
 #include <iostream>
 #include <cstring>
  
@@ -98,7 +98,7 @@ Book 2 id : 6495700
 ## Structures as Function Arguments
 
 You can pass a structure as a function argument in very similar way as you pass any other variable or pointer. You would access structure variables in the similar way as you have accessed in the above example −
-```C++
+```c++
 #include <iostream>
 #include <cstring>
  
@@ -161,7 +161,7 @@ You can define pointers to structures in very similar way as you define pointer 
 struct Books *struct_pointer;
 ```
 Now, you can store the address of a structure variable in the above defined pointer variable. To find the address of a structure variable, place the & operator before the structure's name as follows −
-```C++
+```c++
 struct_pointer = &Book1;
 ```
 To access the members of a structure using a pointer to that structure, you must use the -> operator as follows −
@@ -169,7 +169,7 @@ To access the members of a structure using a pointer to that structure, you must
 struct_pointer->title;
 ```
 Let us re-write above example using structure pointer, hope this will be easy for you to understand the concept −
-```C++
+```c++
 #include <iostream>
 #include <cstring>
  
@@ -229,7 +229,7 @@ Book id : 6495700
 ## The typedef Keyword
 
 There is an easier way to define structs or you could "alias" types you create. For example −
-```C++
+```c++
 typedef struct {
    char  title[50];
    char  author[50];
@@ -246,7 +246,7 @@ Books Book1, Book2;
 
 You can use typedef keyword for non-structs as well as follows −
 
-```C++
+```c++
 typedef long int *pint32;
  
 pint32 x, y, z;
