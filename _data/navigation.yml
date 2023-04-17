@@ -50,6 +50,9 @@ beginners:
         url: /docs/function/
       - title: "Array"
         url: /docs/array/
+      - title: "Data structure"
+        url: /docs/datastructure/
+        
   #- title: Customization
   #  children:
   #    - title: "Configuration"
