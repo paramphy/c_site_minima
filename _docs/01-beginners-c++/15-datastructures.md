@@ -19,7 +19,7 @@ Structures are used to represent a record, suppose you want to keep track of you
 
 To define a structure, you must use the **struct** statement. The **struct** statement defines a new data type, with more than one member, for your program. The format of the **struct** statement is this −
 
-```C++
+```c++
 struct [structure tag] {
    member definition;
    member definition;
