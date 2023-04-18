@@ -1,12 +1,12 @@
 ---
 title: "Basics of C++"
-permalink: /docs/prob1/
+permalink: /docs/basics/
 last_modified_at: 2023-02-02
 redirect_from:
   - /theme-setup/
 toc: true
 ---
-C++ is a middle-level programming language developed by Bjarne Stroustrup starting in 1979 at Bell Labs. C++ runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX. This C++ tutorial adopts a simple and practical approach to describe the concepts of C++ for beginners to advanded science students.
+C++ is a middle-level programming language developed by Bjarne Stroustrup starting in 1979 at Bell Labs. C++ runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX. This C++ tutorial adopts a simple and practical approach to describe the concepts of C++ for beginners to advanced science students.
 
 ## Why to Learn C++
 

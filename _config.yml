@@ -97,9 +97,9 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/michael-rose.jpg"
-  bio              : "Just another *boring*, *tattooed*, *time traveling*, *designer*."
-  location         : "Buffalo, NY"
+  avatar           : ""
+  bio              : ""
+  location         : ""
   links:
     - label: "Made Mistakes"
       icon: "fas fa-fw fa-link"
@@ -133,6 +133,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _docs
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -185,10 +186,10 @@ kramdown:
 
 
 # Collections
-#collections:
-  #docs:
-  #  output: true
-  #  permalink: /:collection/:path/
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
   #recipes:
   #  output: true
   #  permalink: /:collection/:path/
@@ -220,11 +221,11 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       mathjax: true
   # _docs
   - scope:
-      path: "_docs"
+      path: ""
       type: docs
     values:
       layout: single
@@ -234,7 +235,7 @@ defaults:
       comments: false
       mathjax: true
       sidebar:
-        nav: "beginners"
+        nav: "docs"
 #  # _recipes
 #  - scope:
 #      path: ""

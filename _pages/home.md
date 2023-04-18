@@ -21,14 +21,14 @@ feature_row:
     alt: "numerical-methods"
     title: "Numerical methods using C++"
     excerpt: "Under construction"
-    url: "/docs/layouts/"
+    url: ""
     btn_class: "btn--primary"
     btn_label: "Read more"
   - image_path: assets/images/c++numerical.png
     alt: "numericalproblems"
     title: "Numerical Problems"
     excerpt: "Under construction"
-    url: "/docs/license/"
+    url: "/year-archive/"
     btn_class: "btn--primary"
     btn_label: "Read more"      
 ---

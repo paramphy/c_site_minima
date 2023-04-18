@@ -3,15 +3,15 @@ main:
   - title: "Beginners guide to C++"
     url: /docs/basics/
   - title: "Numerical Methods"
-    url: 
-  - title: "Sample Posts"
+    url: /year-archive/
+  - title: "Sample codes"
     url: /year-archive/
 # - title: "Terms &amp; Privacy Policy"
 #    url: /terms/
 
 
 # documentation links
-beginners:
+docs:
   - title: Beginners
     children:
       - title: "Basics"
@@ -52,11 +52,11 @@ beginners:
         url: /docs/datastructure/
 
 # codes link        
-codes:
-  - title: Beginners
-    children:
-      - title: "Basics"
-        url: /docs/prob1/
+#codes:
+#  - title: Beginners
+#    children:
+#      - title: "Basics"
+#        url: /docs/prob1/
 
   #- title: Customization
   #  children:

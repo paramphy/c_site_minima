@@ -78,4 +78,4 @@ Input the value of delT = 0.01
 Calculations are done and the generated data is stored in 'butterfly.dat'
 ```
 
-![](assets\images\butterfly.png)
+![](../../assets/images/butterfly.png)
