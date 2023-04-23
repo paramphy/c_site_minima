@@ -95,7 +95,7 @@ Input the values of phi, delta t and N = 0
 10
 ```
 
-![](../../c_site_minima/assets/images/lissajous-1-1-1-1-0.png)
+![](../../assets/images/lissajous-1-1-1-1-0.png)
 
 ```
 Input the values of Ax and Ay = 1
