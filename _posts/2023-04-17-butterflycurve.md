@@ -69,7 +69,7 @@ int main()
 
 #### Gnuplot command
 ```
-gnuplot> plot 'butterfly.dat' u 2:3 w l p
+gnuplot> plot 'butterfly.dat' u 2:3 w lp
 ```
 ### Output
 ```
