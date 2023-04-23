@@ -107,4 +107,4 @@ Input the values of phi, delta t and N = 0
 100
 The generated data in written in lissajous.dat
 ```
-![](../../c_site_minima/assets/images/lissajousZt-1-1-1-1.1-0.png)
+![](../../assets/images/lissajousZt-1-1-1-1.1-0.png)
