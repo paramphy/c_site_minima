@@ -4,7 +4,7 @@ main:
     url: /docs/basics/
   - title: "Numerical Methods"
     url: /year-archive/
-  - title: "Sample codes"
+  - title: "Numerical problems"
     url: /year-archive/
 # - title: "Terms &amp; Privacy Policy"
 #    url: /terms/
@@ -39,7 +39,7 @@ docs:
       - title: "if else statement"
         url: /docs/ifelse/
       - title: "Loops"
-        url: /docs/loops/
+        url: /docs/forloops/
   - title: Tools
     children:
       - title: "Function"
