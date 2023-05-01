@@ -96,23 +96,23 @@ analytics:
 
 # Site Author
 author:
-  name             : *name # *name is a YAML reference pointing to the &anchor earlier
+  name             : "Paramesh Chnadra" # *name is a YAML reference pointing to the &anchor earlier
   avatar           : ""
   bio              : ""
-  location         : ""
+  location         : "Santiniketan, Bolpur"
   links:
-    - label: "Made Mistakes"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
+      url: "https://paramphy.github.io/param/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+      url: "https://twitter.com/paramphy"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
+      url: "https://github.com/paramphy"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://instagram.com/ur_joker_param"
 
 
 # Site Footer
