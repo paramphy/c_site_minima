@@ -34,8 +34,6 @@ docs:
         url: /docs/constants/
       - title: "Operators"
         url: /docs/operators/
-      #- title: "Storage Classes"
-      #  url: /docs/comments/
   - title: Flow Control
     children:
       - title: "if else statement"
@@ -104,7 +102,7 @@ docs:
   #      url: /terms/
 #
 # #sidebar navigation list sample
-si#debar-sample:
+#sidebar-sample:
   #- title: "Parent Page A"
   #  children:
   #    - title: "Child Page A1"

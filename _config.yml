@@ -14,8 +14,8 @@ locale                   : "en-US"
 title                    : "C++ for Numerical Problem Solving"
 title_separator          : "-"
 subtitle                 : ""
-name                     : &name "Paramesh Chandra" # &name is a YAML anchor which can be *referenced later
-description              : &description ""
+name                     : "Paramesh Chandra" # &name is a YAML anchor which can be *referenced later
+description              : ""
 url                      : https://paramphy.github.io/c_site_minima/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "paramphy/c_site_minima"
@@ -209,7 +209,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: true
       share: true

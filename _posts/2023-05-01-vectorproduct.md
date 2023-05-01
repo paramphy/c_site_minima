@@ -135,6 +135,3 @@ Result of the vector triple product
 Result of the vector triple product identity
 0i      0j      0k
 ```
-
-![](../../assets/images/butterfly.png)
-
