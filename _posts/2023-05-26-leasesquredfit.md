@@ -11,8 +11,11 @@ toc: true
 ## Problem in section "Matrix Operations" no. 1
 
 Fit a given data to three different functions
+
 $$y = mx +c$$
+
 $$y = Ae^{nx}$$
+
 $$y = Ax^n$$
 
 ## Answer
@@ -95,7 +98,7 @@ int main()
     ifstream fin;
     fin.open("fitdata.dat");
     fin >> dataarray.n;
-    cout << dataarray.n << endl;
+    cout << "Number of data pairs = "<<dataarray.n << endl;
     for (i = 0; i < dataarray.n; i++)
     {
         fin >> dataarray.x[i] >> dataarray.y[i];
@@ -132,7 +135,7 @@ int main()
 
 ```
 Data will be read from fitdata.dat file
-11
+Number of data pairs = 11
 a = 3.61938     c = 1.41565
 m = 0.216212    A = 5.35779
 n = 0.474721    A = 9.10746
