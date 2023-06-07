@@ -236,6 +236,19 @@ defaults:
       mathjax: true
       sidebar:
         nav: "docs"
+  # _numerical
+  - scope:
+      path: ""
+      type: numerical
+    values:
+      layout: single
+      read_time: true
+      author_profile: false
+      share: false
+      comments: false
+      mathjax: true
+      sidebar:
+        nav: "numerical"
 #  # _recipes
 #  - scope:
 #      path: ""

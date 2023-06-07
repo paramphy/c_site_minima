@@ -3,7 +3,7 @@ main:
   - title: "Beginners guide to C++"
     url: /docs/basics/
   - title: "Numerical Methods"
-    url: /year-archive/
+    url: /numerical/bisection/
   - title: "Numerical problems"
     url: /year-archive/
 # - title: "Terms &amp; Privacy Policy"
@@ -48,3 +48,24 @@ docs:
         url: /docs/array/
       - title: "Data structure"
         url: /docs/datastructure/
+
+#Numerical Methods
+# documentation links
+numerical:
+  - title: Root finding methods
+    children:
+      - title: "Bisection method"
+        url: /numerical/bisection/
+      - title: "Newton-Raphson method"
+        url: 
+  - title: Numerical Integration
+    children:
+      - title: "Trapizoidal method"
+        url: 
+      - title: "Simpson's 1/3 method"
+        url: 
+      - title: "Simpson's 3/8 method"
+        url: 
+      - title: "Monte Carlo method"
+        url: 
+  - title: Solution of Differential equation

@@ -21,7 +21,7 @@ feature_row:
     alt: "Numerical methods"
     title: "Numerical methods using C++"
     excerpt: "Under construction"
-    url: ""
+    url: "/numerical/bisection/"
     btn_class: "btn--primary"
     btn_label: "Read more"
   - image_path: assets/images/c++numerical.png
