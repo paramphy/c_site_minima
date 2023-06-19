@@ -69,3 +69,8 @@ numerical:
       - title: "Monte Carlo method"
         url: 
   - title: Solution of Differential equation
+    children:
+      - title: "Eular's method"
+        url: /numerical/eulars-method
+      - title: "Range-Kutta method"
+        url: 
