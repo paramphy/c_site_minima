@@ -70,7 +70,7 @@ numerical:
         url: 
   - title: Solution of Differential equation
     children:
-      - title: "Eular's method"
-        url: /numerical/eulars-method
+      - title: "Euler's method"
+        url: /numerical/eulers-method
       - title: "Range-Kutta method"
-        url: 
+        url: /numerical/rangekutta-method/
