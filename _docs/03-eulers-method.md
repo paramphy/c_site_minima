@@ -9,9 +9,7 @@ sidebar:
   nav: "numerical"
 ---
 The Euler’s method is a first-order numerical procedure for solving ordinary differential equations (ODE) with a given initial value.
-
 ## Methodology
-
 Let’s start with a general first order IVP (Initial Value Problem)
 
 $$\frac{dy}{dt}=f(t,y) \space\space where \space\space y(t_0)=y_0$$
@@ -25,9 +23,7 @@ $$y=y_0+f(t_0,y_0)(t-t_0)$$
 same process can be repeated to get the next value fro the previous one.
 
 ![](//assets/images/Eulers-Approximation.png)
-
 ## Algorithm
-
 1. define $f(t,y)$.
 2. input the initial values $t_0, y_0$.
 3. input step size, $h$ and the number of steps, $n$.

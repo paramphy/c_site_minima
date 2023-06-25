@@ -79,9 +79,6 @@ To call a function, you simply need to pass the required parameters along with f
 #include <iostream>
 using namespace std;
  
-// function declaration
-int max(int num1, int num2);
- 
 int main () {
    // local variable declaration:
    int a = 100;
