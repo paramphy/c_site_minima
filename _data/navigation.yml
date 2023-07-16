@@ -48,6 +48,10 @@ docs:
         url: /docs/array/
       - title: "Data structure"
         url: /docs/datastructure/
+      - title: "Errors"
+        url: /docs/errors/
+      - title: "Time"
+        url: /docs/time/
 
 #Numerical Methods
 # documentation links
@@ -61,7 +65,7 @@ numerical:
   - title: Numerical Integration
     children:
       - title: "Trapizoidal method"
-        url: 
+        url: /numerical/trapizoidal/
       - title: "Simpson's 1/3 method"
         url: 
       - title: "Simpson's 3/8 method"
