@@ -71,7 +71,7 @@ numerical:
       - title: "Simpson's 3/8 method"
         url: 
       - title: "Monte Carlo method"
-        url: 
+        url: /numerical/montecarlo/
   - title: Solution of Differential equation
     children:
       - title: "Euler's method"
